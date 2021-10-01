@@ -3,7 +3,9 @@
 
 int main ()
 {
-    int sum=0 ,i, ip;
+	
+	
+    int sum=0 , u,i, ip;
     printf("Input upper limit of even number: ");
     scanf("%d",&ip);
     for(i=1;i<=ip;i++)
